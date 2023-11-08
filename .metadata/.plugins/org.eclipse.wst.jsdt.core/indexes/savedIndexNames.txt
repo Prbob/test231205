@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\soyun\study\test231205\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3001067952.index

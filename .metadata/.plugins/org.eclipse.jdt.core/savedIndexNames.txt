@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\soyun\study\test231205\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3001067952.index
+2046923927.index
